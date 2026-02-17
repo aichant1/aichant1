@@ -1,7 +1,6 @@
 <h1>Hi, I'm Anysiah!👩🏽‍💻 <br/><a 
 
-
-<h2>💻 Cybersecurity, IAM, & IT Support Labs:</h2>
+</h2>SysAdmin, IAM, & IT Support Labs:</h2>
 
 - <b>Identity & Access</b>
   - [Active Directory Basics Lab](https://github.com/aichant1/Active-Directory-Basics---Identity-Access-Management-Lab/tree/main)
