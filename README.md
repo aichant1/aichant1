@@ -4,8 +4,10 @@
 
 - <b>Identity & Access</b>
   - [Active Directory Basics Lab](https://github.com/aichant1/Active-Directory-Basics---Identity-Access-Management-Lab/tree/main)
-  - [AD User Provisioning Automation (Powershell)](https://github.com/aichant1/PowershellLab1)
 
+- <b>Powershell</b>
+  - [AD User Provisioning Automation (Powershell)](https://github.com/aichant1/PowershellLab1)
+    
 - <b>Cloud Identity & Azure Security</b>
 
 - <b>Networking & Endpoint Security</b>
