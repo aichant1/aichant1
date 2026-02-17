@@ -5,7 +5,7 @@
 
 - <b>Identity & Access</b>
   - [Active Directory Basics Lab](https://github.com/aichant1/Active-Directory-Basics---Identity-Access-Management-Lab/tree/main)
-- <b>SIEM & Security Monitoring</b>
+  - [AD User Provisioning Automation (Powershell)](https://github.com/aichant1/PowershellLab1)
 
 - <b>Cloud Identity & Azure Security</b>
 
@@ -13,9 +13,12 @@
   
 <h2> 🏅 Certifications:</h2>
 
+- <b>⚙️ IT Service Management</b>          
+  - ITIL 4 Foundation
+
 - <b>🛡️CompTIA:</b>          
-  - CySA+                        
   - Security+
+  - Cloud+
   - Network+
   - A+
  
@@ -26,7 +29,7 @@
 
   - Windows Server                    
   - Active Directory
-  - Splunk
+  - Powershell
   - Azure
   - VMware
   - Service Now
