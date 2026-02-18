@@ -27,7 +27,7 @@
 - <b>🧩Microsoft:</b>
   
  
-<h2>🛠️Tools Used:</h2>
+<h2>🛠️ Tools Used:</h2>
 
   - Windows Server                    
   - Active Directory
