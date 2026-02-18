@@ -5,13 +5,13 @@
 - <b>Identity & Access</b>
   - [Active Directory Basics Lab](https://github.com/aichant1/Active-Directory-Basics---Identity-Access-Management-Lab/tree/main)
 
-- <b>Powershell</b>
+- <b>Powershell Scripting</b>
   - [AD User Provisioning Automation (Powershell)](https://github.com/aichant1/PowershellLab1)
-    
-- <b>Cloud Identity & Azure Security</b>
 
 - <b>Networking & Endpoint Security</b>
   - [Windows Server DNS/DHCP Configuration](https://github.com/aichant1/DNS-DHCP-LAB/blob/main/README.md)
+ 
+- <b>Cloud Identity & Azure Security</b>
   
 <h2> 🏅 Certifications in Progress:</h2>
 
@@ -36,6 +36,15 @@
   - VMware
   - Service Now
 
+<h2>📚 Education:</h2>
+
+<b>Western Governors University</b>   
+
+ - Bachelor of Science in Cloud and Network Engineering (Expected December 2026)
+
+
+  <b>Jefferson State Community College</b>   
+  - Associate of Science (Completed)
 <!--
 **nysiah/nysiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
