@@ -5,8 +5,8 @@
 - <b>Identity & Access</b>
   - [Active Directory Basics Lab](https://github.com/aichant1/Active-Directory-Basics---Identity-Access-Management-Lab/tree/main)
 
-- <b>Powershell Scripting</b>
-  - [AD User Provisioning Automation (Powershell)](https://github.com/aichant1/PowershellLab1)
+- <b>PowerShell Scripting</b>
+  - [AD User Provisioning Automation (PowerShell)](https://github.com/aichant1/PowershellLab1)
 
 - <b>Networking & Endpoint Security</b>
   - [Windows Server DNS/DHCP Configuration](https://github.com/aichant1/DNS-DHCP-LAB/blob/main/README.md)
