@@ -12,8 +12,9 @@
   - [Windows Server DNS/DHCP Configuration](https://github.com/aichant1/DNS-DHCP-LAB/blob/main/README.md)
  
 - <b>Cloud Identity & Azure Security</b>
-Will be uploaded soon.
-  
+  - (Will be uploaded soon.)
+ 
+    
 <h2> 🏅 Certifications in Progress:</h2>
 
 - <b>⚙️ IT Service Management</b>          
@@ -33,7 +34,7 @@ Will be uploaded soon.
 
   - Windows Server                    
   - Active Directory
-  - Powershell
+  - PowerShell
   - Azure
   - VMware
   - Service Now
