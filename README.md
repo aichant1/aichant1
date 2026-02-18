@@ -11,6 +11,7 @@
 - <b>Cloud Identity & Azure Security</b>
 
 - <b>Networking & Endpoint Security</b>
+  - [Windows Server DNS/DHCP Configuration](https://github.com/aichant1/DNS-DHCP-LAB/blob/main/README.md)
   
 <h2> 🏅 Certifications:</h2>
 
