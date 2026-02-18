@@ -12,6 +12,7 @@
   - [Windows Server DNS/DHCP Configuration](https://github.com/aichant1/DNS-DHCP-LAB/blob/main/README.md)
  
 - <b>Cloud Identity & Azure Security</b>
+Will be uploaded soon.
   
 <h2> 🏅 Certifications in Progress:</h2>
 
@@ -25,7 +26,8 @@
   - A+
  
 - <b>🧩Microsoft:</b>
-  
+  - Azure Administrator Associate (AZ-104)
+  - Azure Fundamentals (AZ-900)
  
 <h2>🛠️ Tools Used:</h2>
 
