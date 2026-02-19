@@ -12,7 +12,7 @@
   - [Windows Server DNS/DHCP Configuration](https://github.com/aichant1/DNS-DHCP-LAB/blob/main/README.md)
  
 - <b>Cloud Identity & Azure Security</b>
-  - [Microsoft Entra ID – Self-Service Password Reset]
+  - [Microsoft Entra ID – Self-Service Password Reset](https://github.com/aichant1/Entra-ID-SSPR/edit/main/README.md)
  
     
 <h2> 🏅 Certifications in Progress:</h2>
