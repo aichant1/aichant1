@@ -13,7 +13,7 @@
  
 - <b>Cloud Identity & Azure Security</b>
   - [Microsoft Entra ID: Self-Service Password Reset](https://github.com/aichant1/Entra-ID-SSPR/edit/main/README.md)
- 
+  - [Microsoft Intune: Device Enrollment and Auto-Enrollment Configuration](https://github.com/aichant1/Microsoft-Intune-Auto-Device-Enrollment)
     
 <h2> 🏅 Certifications in Progress:</h2>
 
