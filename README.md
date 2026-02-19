@@ -3,17 +3,17 @@
 </h2>SysAdmin, IAM, & IT Support Labs:</h2>
 
 - <b>Identity & Access</b>
-  - [Active Directory Basics Lab](https://github.com/aichant1/Active-Directory-Basics---Identity-Access-Management-Lab/tree/main)
+  - [Active Directory Basics Lab](https://github.com/aichant1/Active-Directory-Basics---Identity-Access-Management-Lab/blob/main/README.md)
 
 - <b>PowerShell Scripting</b>
-  - [AD User Provisioning Automation (PowerShell)](https://github.com/aichant1/PowershellLab1)
+  - [AD User Provisioning Automation (PowerShell)](https://github.com/aichant1/PowershellLab1/blob/main/README.md)
 
 - <b>Networking & Endpoint Security</b>
   - [Windows Server DNS/DHCP Configuration](https://github.com/aichant1/DNS-DHCP-LAB/blob/main/README.md)
  
 - <b>Cloud Identity & Azure Security</b>
-  - [Microsoft Entra ID: Self-Service Password Reset](https://github.com/aichant1/Entra-ID-SSPR)
-  - [Microsoft Intune: Device Enrollment and Auto-Enrollment Configuration](https://github.com/aichant1/Microsoft-Intune-Auto-Device-Enrollment)
+  - [Microsoft Entra ID: Self-Service Password Reset](https://github.com/aichant1/Entra-ID-SSPR/blob/main/README.md)
+  - [Microsoft Intune: Device Enrollment and Auto-Enrollment Configuration](https://github.com/aichant1/Microsoft-Intune-Auto-Device-Enrollment/blob/main/README.md)
     
 <h2> 🏅 Certifications in Progress:</h2>
 
