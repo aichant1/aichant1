@@ -10,6 +10,7 @@
 
 - <b>Networking & Endpoint Security</b>
   - [Windows Server DNS/DHCP Configuration](https://github.com/aichant1/DNS-DHCP-LAB/blob/main/README.md)
+  - [Static IPv4 Configuration and Network Troubleshooting](https://github.com/aichant1/Static-IPv4-Configuration-Troubleshooting/blob/main/README.md)
  
 - <b>Cloud Identity & Azure Security</b>
   - [Microsoft Entra ID: Self-Service Password Reset](https://github.com/aichant1/Entra-ID-SSPR/blob/main/README.md)
