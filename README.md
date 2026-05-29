@@ -40,7 +40,6 @@
   - PowerShell
   - Azure
   - VMware
-  - Service Now
 
 <h2>📚 Education:</h2>
 
